@@ -1,0 +1,6 @@
+{
+  "name": "usage-stats",
+  "version": "0.1.0",
+  "description": "A side panel with your Claude Code activity heatmap, streaks and favorite model",
+  "types": "./types/index.d.ts"
+}
